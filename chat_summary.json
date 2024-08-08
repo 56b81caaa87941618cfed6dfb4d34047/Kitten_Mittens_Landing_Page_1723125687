@@ -18,5 +18,11 @@
         "content": "Understood, working on changing it to pink.",
         "timestamp": "08082024155231",
         "message_id": "guest08082024155231"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the entire landing page background to be pink, or are there specific elements (e.g., buttons, text) you're referring to?\", \"option1\": \"Entire background\", \"option2\": \"Specific elements\"}, {\"question 2\": \"Do you have a specific shade of pink in mind for the design?\", \"option1\": \"Yes, I will provide the color code\", \"option2\": \"No, please use your discretion to choose a shade\"}], \"input_token_count\": 256, \"output_token_count\": 111, \"time_taken\": \"0:00:06.503688\"}",
+        "timestamp": "08082024155238",
+        "message_id": "guest08082024155231"
     }
 ]
