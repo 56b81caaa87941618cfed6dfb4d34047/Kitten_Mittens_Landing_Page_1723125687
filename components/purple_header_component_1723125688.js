@@ -59,12 +59,12 @@ Vue.component("purple_header_component_1723125688", {
             return {
                 expanded: false, 
                 tab: null,
-                textStylePrimary: 'text-slate-300',
-                hoverTextStylePrimary: 'hover:text-white',
-                signUpButtonText: "text-slate-300",
-                signUpButtonHover: "hover:text-white",
-                signUpButtonGradient: "[background:linear-gradient(theme(colors.slate.900),_theme(colors.slate.900))_padding-box,_conic-gradient(theme(colors.slate.400),_theme(colors.slate.700)_25%,_theme(colors.slate.700)_75%,_theme(colors.slate.400)_100%)_border-box]",
-                signUpButtonArrow: "text-purple-500",
+                textStylePrimary: 'text-pink-300',
+                hoverTextStylePrimary: 'hover:text-pink-100',
+                signUpButtonText: "text-pink-300",
+                signUpButtonHover: "hover:text-pink-100",
+                signUpButtonGradient: "[background:linear-gradient(theme(colors.pink.900),_theme(colors.pink.900))_padding-box,_conic-gradient(theme(colors.pink.400),_theme(colors.pink.700)_25%,_theme(colors.pink.700)_75%,_theme(colors.pink.400)_100%)_border-box]",
+                signUpButtonArrow: "text-pink-500",
             };
         },
     });
