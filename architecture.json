@@ -18,5 +18,9 @@
     {
         "level": 1,
         "task_description": "replace this with a ui for submitting data to a smart contract (as a form) with info about your ED25519 public key and how much you want to stake, and placeholder text about why you should stake"
+    },
+    {
+        "level": 1,
+        "task_description": "replace this with a ui for submitting data to a smart contract (as a form) with info about your ED25519 public key and how much you want to stake, and placeholder text about why you should stake"
     }
 ]
