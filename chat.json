@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of pink would you prefer for the landing page's background or elements?\", \"option1\": \"A light, pastel pink\", \"option2\": \"A bright, vibrant pink\"}, {\"question 2\": \"Do you want the pink color applied to the entire landing page background or specific elements (like buttons, text, etc.)?\", \"option1\": \"Entire landing page background\", \"option2\": \"Specific elements only\"}], \"input_token_count\": 318, \"output_token_count\": 104, \"time_taken\": \"0:00:02.948468\"}",
+        "message_id": "guest08082024161035",
+        "timestamp": "08082024161039",
+        "component_file_name": "purple_header_component_1723125688",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, changing it to pink as requested.",
         "message_id": "guest08082024161035",
