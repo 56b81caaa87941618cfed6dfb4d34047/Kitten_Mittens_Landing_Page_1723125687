@@ -12,5 +12,11 @@
         "content": "make it pink",
         "timestamp": "08082024155231",
         "message_id": "guest08082024155231"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Understood, working on changing it to pink.",
+        "timestamp": "08082024155231",
+        "message_id": "guest08082024155231"
     }
 ]
