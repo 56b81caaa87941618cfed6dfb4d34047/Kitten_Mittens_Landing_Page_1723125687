@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, initiating the deployment of the smart contract.",
+        "message_id": "guest08082024160949",
+        "timestamp": "08082024160949",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "deploy a smart contract",
         "message_id": "guest08082024160949",

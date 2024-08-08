@@ -36,5 +36,11 @@
         "content": "deploy a smart contract",
         "timestamp": "08082024160949",
         "message_id": "guest08082024160949"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, initiating the deployment of the smart contract.",
+        "timestamp": "08082024160949",
+        "message_id": "guest08082024160949"
     }
 ]
