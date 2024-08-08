@@ -42,5 +42,11 @@
         "content": "Sure, initiating the deployment of the smart contract.",
         "timestamp": "08082024160949",
         "message_id": "guest08082024160949"
+    },
+    {
+        "role": "user",
+        "content": "make it pink",
+        "timestamp": "08082024161035",
+        "message_id": "guest08082024161035"
     }
 ]
