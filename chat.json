@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Understood, working on changing it to pink.",
+        "message_id": "guest08082024155231",
+        "timestamp": "08082024155231",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "make it pink",
         "message_id": "guest08082024155231",
