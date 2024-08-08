@@ -8,27 +8,27 @@
 
 Vue.component("dark_footer_component_1723125688", {
     template: `
-<div class="max-w-6xl mx-auto px-4 sm:px-6 bg-white p-8 rounded-lg shadow-lg">
-    <h2 class="text-2xl font-bold mb-6 text-center" :class="textColorPrimary">Stake Your Tokens</h2>
+<div class="max-w-6xl mx-auto px-4 sm:px-6 bg-gray-900 p-8 rounded-lg shadow-lg">
+    <h2 class="text-2xl font-bold mb-6 text-center text-white">Stake Your Tokens</h2>
     
     <div class="mb-8">
-        <p class="text-lg" :class="textColorSecondary">Staking your tokens helps secure the network and earn rewards. Join our staking community today!</p>
+        <p class="text-lg text-gray-300">Staking your tokens helps secure the network and earn rewards. Join our staking community today!</p>
     </div>
     
     <form @submit.prevent="submitStake" class="space-y-6">
         <div>
-            <label for="publicKey" class="block text-sm font-medium" :class="textColorPrimary">ED25519 Public Key</label>
-            <input type="text" id="publicKey" v-model="publicKey" required class="mt-1 block w-full px-3 py-2 bg-white border border-slate-300 rounded-md text-sm shadow-sm placeholder-slate-400
-                focus:outline-none focus:border-sky-500 focus:ring-1 focus:ring-sky-500" placeholder="Enter your ED25519 public key">
+            <label for="publicKey" class="block text-sm font-medium text-white">ED25519 Public Key</label>
+            <input type="text" id="publicKey" v-model="publicKey" required class="mt-1 block w-full px-3 py-2 bg-gray-800 border border-gray-700 rounded-md text-sm shadow-sm placeholder-gray-500 text-white
+                focus:outline-none focus:border-purple-500 focus:ring-1 focus:ring-purple-500" placeholder="Enter your ED25519 public key">
         </div>
         
         <div>
-            <label for="stakeAmount" class="block text-sm font-medium" :class="textColorPrimary">Stake Amount</label>
-            <input type="number" id="stakeAmount" v-model="stakeAmount" required min="0" step="0.01" class="mt-1 block w-full px-3 py-2 bg-white border border-slate-300 rounded-md text-sm shadow-sm placeholder-slate-400
-                focus:outline-none focus:border-sky-500 focus:ring-1 focus:ring-sky-500" placeholder="Enter amount to stake">
+            <label for="stakeAmount" class="block text-sm font-medium text-white">Stake Amount</label>
+            <input type="number" id="stakeAmount" v-model="stakeAmount" required min="0" step="0.01" class="mt-1 block w-full px-3 py-2 bg-gray-800 border border-gray-700 rounded-md text-sm shadow-sm placeholder-gray-500 text-white
+                focus:outline-none focus:border-purple-500 focus:ring-1 focus:ring-purple-500" placeholder="Enter amount to stake">
         </div>
         
-        <button type="submit" class="w-full flex justify-center py-2 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+        <button type="submit" class="w-full flex justify-center py-2 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-purple-600 hover:bg-purple-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-purple-500">
             Submit Stake
         </button>
     </form>
