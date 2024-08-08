@@ -10,5 +10,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\n\nUser: make it pink\nAI: Understood, working on changing it to pink.\nUser: deploy a smart contract\nAI: Sure, initiating the deployment of the smart contract.\nThis is the user's current request of changes to be made: make it pink"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nUser: make it pink\nAI: Understood, working on changing it to pink.\nUser: deploy a smart contract\nAI: Sure, initiating the deployment of the smart contract.\nThis is the user's current request of changes to be made: make it pink"
     }
 ]
