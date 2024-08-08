@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Got it. Creating a smart contract submission UI form.",
+        "message_id": "guest08082024165102",
+        "timestamp": "08082024165102",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "replace this with a ui for submitting data to a smart contract (as a form) with info about your ED25519 public key and how much you want to stake, and placeholder text about why you should stake",
         "message_id": "guest08082024165102",
