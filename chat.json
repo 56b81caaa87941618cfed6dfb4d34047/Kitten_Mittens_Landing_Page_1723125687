@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Form for submitting data to a smart contract\", \"checked\": true}, {\"feature\": \"Input field for ED25519 public key with placeholder 'Enter your ED25519 public key'\", \"checked\": true}, {\"feature\": \"Number input field for stake amount with placeholder 'Enter amount to stake'\", \"checked\": true}, {\"feature\": \"Text area for staking justification with placeholder 'Explain why you believe staking is beneficial for you'\", \"checked\": true}, {\"feature\": \"Submit button with text 'Stake Now'\", \"checked\": false}, {\"feature\": \"Information section on ED25519 and staking benefits\", \"checked\": false}], \"input_token_count\": 249, \"output_token_count\": 150, \"time_taken\": \"0:00:14.042437\"}",
+        "message_id": "guest08082024165102",
+        "timestamp": "08082024165117",
+        "component_file_name": "dark_footer_component_1723125688",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the form to have a real-time validation feature for the ED25519 public key to ensure it meets specific criteria before submission?\", \"option1\": \"Yes, include real-time validation for the public key.\", \"option2\": \"No, basic validation upon submission is sufficient.\"}, {\"question 2\": \"For the 'amount to stake' input, do you prefer a numeric entry field with predefined increments or a flexible entry that allows any amount?\", \"option1\": \"Predefined increments for staking amounts.\", \"option2\": \"Flexible entry for any staking amount.\"}], \"input_token_count\": 295, \"output_token_count\": 132, \"time_taken\": \"0:00:05.538610\"}",
         "message_id": "guest08082024165102",
